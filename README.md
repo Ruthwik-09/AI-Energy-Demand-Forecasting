@@ -29,17 +29,14 @@ This data is processed and analyzed using machine learning algorithms to generat
 - ## Project Structure
 
 AI-Energy-Demand-Forecasting
-│
-├── presentation
-│   └── project_presentation.pptx
-│
-├── architecture
-│   └── solution_architecture.png
-│
-├── code
-│   └── energy_prediction_model.py
-│
-├── dataset
-│   └── sample_energy_data.csv
-│
-└── README.md
+ presentation
+  └── project_presentation.pptx
+ architecture
+  └── solution_architecture.png
+
+ code
+   └── energy_prediction_model.py
+
+ dataset
+   └── sample_energy_data.csv
+ 
